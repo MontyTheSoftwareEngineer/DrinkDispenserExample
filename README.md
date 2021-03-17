@@ -4,3 +4,5 @@
 
 
 Code for Video 8
+
+Working demo (Built using Qt for WebAssembly):http://hifam.org/WebAssemblyDrinkDispenserExample/CoffeeSodaDispenserExample.html
